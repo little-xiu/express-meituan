@@ -1,0 +1,29 @@
+[
+	{	
+		"id": "001",
+		"img": "/static/images/pro1.jpg",
+		"title": "世纪量贩KTV",
+		"subTit": "[新洲/石厦]周一至周日白天档欢唱5小时",
+		"price": "39",
+		"delPrice": "门市价:299元",
+		"count": "已售222"
+	},
+	{
+		"id": "002",
+		"img": "/static/images/seller2.jpg",
+		"title": "森鑫源蛋糕店",
+		"subTit": "[29店通用]托马斯鲜果蛋糕1个，约2.5磅，圆形",
+		"price": "139",
+		"delPrice": "门市价:399元",
+		"count": "已售345"
+	},
+	{
+		"id": "003",
+		"img": "/static/images/seller3.jpg",
+		"title": "水景云天国际健康水会",
+		"subTit": "[福田区]单人按摩休闲套餐",
+		"price": "139",
+		"delPrice": "门市价:599元",
+		"count": "已售822"
+	}
+]
